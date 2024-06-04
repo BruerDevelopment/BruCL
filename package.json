@@ -1,0 +1,26 @@
+{
+  "bin": "./bin.js",
+  "name": "brucl",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2",
+    "jsx-node": "^0.3.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "styled-components": "^6.1.8",
+    "react-icons": "^5.0.1",
+    "next": "14.1.4"
+  }, 
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "babel-plugin-styled-components": "^2.1.4",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "typescript": "^5"
+  }
+}
