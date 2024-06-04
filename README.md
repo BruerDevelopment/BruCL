@@ -8,4 +8,4 @@ A flexible, accessible and robust component library to make building Nextjs Site
 ```
 
 ## Components
-- Carousel
+- [Carousel](/components/Carousel/README.md) 
